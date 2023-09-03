@@ -34,10 +34,7 @@ This is a simple web-based Rock-Paper-Scissors game that allows you to play agai
 
 - `index.html`: The main HTML file for the game.
 - `images/`: Contains images for the Rock, Paper, and Scissors icons.
-  
-## My Code Style
-
-I couldn't decide if it's "Rock, Paper, Scissors" or "CSS, JS, Jams." So, we combined them! 🤷‍♂️🎸
+- I couldn't decide if it's "Rock, Paper, Scissors" or "CSS, JS, Jams." So, I combined them!  🤷‍♂️🎸
 
 ## Author
 
