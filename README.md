@@ -36,7 +36,7 @@ This is a simple web-based Rock-Paper-Scissors game that allows you to play agai
 - `images/`: Contains images for the Rock, Paper, and Scissors icons.
 - I couldn't decide if it's "Rock, Paper, Scissors" or "CSS, JS, Jams." So, I combined them!  🤷‍♂️🎸
 
-## Author
+## Thank You!
 
 - Safeer Alam
 
